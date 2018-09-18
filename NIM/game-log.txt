@@ -1,0 +1,6 @@
+Player aaa took 9 stones.
+Current max: 3
+Stones left: 130
+---------------------------------------
+Game over
+Player aaa exceeded time limit

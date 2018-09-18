@@ -1,0 +1,57 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""Script to control an Expanding Nim client
+
+To start the client, run this script with the following options:
+    ./exp-nim [-f] -n <name> IP:port
+where:
+    IP is the IP address of the server
+    port is the port of the server
+    -f should be set if you are the first player
+    -n is a name of your choice
+
+You can also automate the game by piping a list of moves into the script:
+    move-list | exp-nim [-f] -n <name> IP:port
+
+For scripting the game (on Linux), you can create a named pipe and use that
+to read the stdout of the script and send it data on stdin:
+    mkfifo cmd-pipe
+    move-script < cmd-pipe | ./exp-nim [-f] -n <name> IP:port > cmd-pipe
+
+The move is entered in the format %d %d where the first input is the number
+of stones to remove and reset indicates that you want to reset the
+current max. Reset will be interpreted as a boolean using Python's bool()
+function.
+"""
+
+import getopt
+import sys
+
+from client import Client
+
+
+if __name__ == '__main__':
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], 'fn:')
+    except getopt.GetoptError:
+        sys.stderr.write(__doc__)
+        exit(-1)
+    name = None
+    goes_first = False
+    for o, a in opts:
+        if o == '-f':
+            goes_first = True
+        elif o == '-n':
+            name = a
+    if name is None:
+        sys.stderr.write('Please enter a name\n')
+        sys.stderr.write(__doc__)
+        exit(-1)
+    server_address = args[0].split(':')
+    client = Client(name, goes_first, (server_address[0],
+                                       int(server_address[1])))
+    if goes_first:
+        client.send_move()
+    while True:
+        client.get_move()
+        client.send_move()
