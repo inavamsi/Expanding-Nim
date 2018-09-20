@@ -109,7 +109,7 @@ class ExpNimManager():
         if player['resets_left'] > 0:
             player['resets_left'] -= 1
             self.__max_before_reset = self.current_max
-            self.current_max = self.__init_max
+            self.current_max = self.__init_max - 1
             return True
         else:
             return False

@@ -1,26 +1,66 @@
 Player Sephiroth took 1 stones.
 Current max: 1
-Stones left: 99
+Stones left: 49
+---------------------------------------
+Player aaa took 3 stones.
+Current max: 3
+Stones left: 46
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 3
+Stones left: 45
+---------------------------------------
+Player aaa took 4 stones.
+Current max: 4
+Stones left: 41
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 4
+Stones left: 40
 ---------------------------------------
 Player aaa took 5 stones.
 Current max: 5
-Stones left: 94
+Stones left: 35
 ---------------------------------------
 Player Sephiroth took 1 stones.
 Current max: 5
-Stones left: 93
+Stones left: 34
 ---------------------------------------
 Player aaa took 6 stones.
 Current max: 6
-Stones left: 87
+Stones left: 28
 ---------------------------------------
 Player Sephiroth took 1 stones.
 Current max: 6
-Stones left: 86
+Stones left: 27
+---------------------------------------
+Player aaa took 7 stones.
+Current max: 7
+Stones left: 20
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 7
+Stones left: 19
 ---------------------------------------
 Player aaa took 8 stones.
-Current max: 6
-Stones left: 86
+Current max: 8
+Stones left: 11
+---------------------------------------
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 10
+---------------------------------------
+Player aaa took 1 stones.
+Current max: 8
+Stones left: 9
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 8
+Stones left: 8
+---------------------------------------
+Player aaa took 9 stones.
+Current max: 9
+Stones left: 0
 ---------------------------------------
 Game over
-Player aaa made an illegal move
+Player aaa won the game! Congrats!

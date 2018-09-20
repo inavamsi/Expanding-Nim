@@ -35,6 +35,12 @@ def my_algo(game_state):
 
     time.sleep(0.1)
 
+    if game_state:
+        if game_state['stones_left'] < 10:
+            return 1, False
+        if game_state['stones_left'] < 20:
+            return 1, True
+
     return 1, False
 
 if __name__ == '__main__':
