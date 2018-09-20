@@ -3,6 +3,7 @@
 
 import atexit
 import time
+import json
 
 from client import Client
 
@@ -32,7 +33,7 @@ def my_algo(game_state):
 
     print(game_state)
 
-    time.sleep(1)
+    time.sleep(0.1)
 
     return 1, False
 

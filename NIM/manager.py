@@ -64,7 +64,7 @@ class ExpNimManager():
                         Player('1', num_resets)]
         self.stones_left = init_stones
         self.init_resets = num_resets
-        self.current_max = init_max
+        self.current_max = 0
         self.__init_max = init_max
         self.__game_state = {'finished': False,
                              'winner': None,
@@ -133,14 +133,24 @@ class ExpNimManager():
         Raises:
             **ValueError:** If the ``player_number`` is not 0 or 1.
         """
-        if not (0 < num_stones <= self.current_max):
+        valid_max = 0
+
+        #becuase players can always take from 1 to init_max number of stones
+        #we must allow players to take up to init_max even though it may be greater
+        #than current_max
+        if self.current_max < self.__init_max:
+            valid_max = self.__init_max - 1 #subtract one because we are taking valid_max + 1
+        else:
+            valid_max = self.current_max
+
+        if not (0 < num_stones <= valid_max + 1):
             return False
         player = self.players[player_number]
         self.stones_left -= min(num_stones, self.stones_left)
         if self.__max_before_reset:
             self.current_max = self.__max_before_reset
             self.__max_before_reset = None
-        self.current_max = max(num_stones + 1, self.current_max)
+        self.current_max = max(num_stones, self.current_max)
         return True
 
     def move(self, player_number, num_stones, reset=False):
