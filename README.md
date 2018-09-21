@@ -83,3 +83,10 @@ This is illegal because the user broke rule (ii)
 
 
 
+_________________________________Sample Commands______________________________________________
+
+./start-game.py -m 3 -p 9000 -a '127.0.0.1' -t 120 100 4
+./exp-nim -f -n bob 127.0.0.1:9000
+./noob_raid_boss.py
+
+
