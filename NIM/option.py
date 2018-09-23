@@ -57,6 +57,9 @@ if __name__ == '__main__':
     for o, a in opts:
         if o == '-f':
             goes_first = True
+            print("-f flag detected")
+        else:
+            print("no flags")
             
     
     ip = '127.0.0.1'
