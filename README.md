@@ -10,6 +10,8 @@ Ex: ./start-game.py -m 3 -p 9000 -t 120 -a '127.0.0.1' 130 4
 
 You can use the sample Algorithms noob_raid_boss.py and raid_boss_who_goes_second to see how the very basic algorithms work.
 
+*****NOTE: as of 09/23/2018, I added another sample, option.py, which takes in -f to make it go first; otherwise, it defaults to going second. You may either submit two files (1 to go first, and 1 to go second) or 1 file that models off of option.py
+
 Also, if you want to test manually picking out stones (via for both players or for yourself vs 1 AI), you can run exp-nim with the following parameters after the server is up and running.
 
 ./exp-nim [-f] -n (name) IP:PORT
