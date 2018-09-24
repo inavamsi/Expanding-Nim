@@ -53,6 +53,10 @@ if __name__ == '__main__':
     stones = client.init_stones
     resets = client.init_resets
 
+    print('xxxxxxx')
+    print(stones)
+    print(resets)
+
     if goes_first:
         num_stones, reset = my_algo(None)
         check_game_status(client.make_move(num_stones, reset))

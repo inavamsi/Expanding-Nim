@@ -1,66 +1,378 @@
 Player Sephiroth took 1 stones.
 Current max: 1
+Stones left: 99
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 98
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 97
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 96
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 95
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 94
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 93
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 92
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 91
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 90
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 89
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 88
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 87
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 86
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 85
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 84
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 83
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 82
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 81
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 80
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 79
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 78
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 77
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 76
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 75
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 74
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 73
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 72
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 71
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 70
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 69
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 68
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 67
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 66
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 65
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 64
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 63
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 62
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 61
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 60
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 59
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 58
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 57
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 56
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 55
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 54
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 53
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 52
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 51
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 50
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
 Stones left: 49
 ---------------------------------------
-Player aaa took 3 stones.
-Current max: 3
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 48
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 47
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
 Stones left: 46
 ---------------------------------------
 Player Sephiroth took 1 stones.
-Current max: 3
+Current max: 1
 Stones left: 45
 ---------------------------------------
-Player aaa took 4 stones.
-Current max: 4
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 44
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 43
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 42
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
 Stones left: 41
 ---------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 4
+Player Mr. Second took 1 stones.
+Current max: 1
 Stones left: 40
 ---------------------------------------
-Player aaa took 5 stones.
-Current max: 5
-Stones left: 35
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 39
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 38
 ---------------------------------------
 Player Sephiroth took 1 stones.
-Current max: 5
+Current max: 1
+Stones left: 37
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 36
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 35
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
 Stones left: 34
 ---------------------------------------
-Player aaa took 6 stones.
-Current max: 6
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 33
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 32
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 31
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 30
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 29
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
 Stones left: 28
 ---------------------------------------
 Player Sephiroth took 1 stones.
-Current max: 6
+Current max: 1
 Stones left: 27
 ---------------------------------------
-Player aaa took 7 stones.
-Current max: 7
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 26
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 25
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 24
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 23
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 22
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 21
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 1
 Stones left: 20
 ---------------------------------------
 Player Sephiroth took 1 stones.
-Current max: 7
+Current max: 1
 Stones left: 19
 ---------------------------------------
-Player aaa took 8 stones.
-Current max: 8
-Stones left: 11
+Player Mr. Second took 1 stones.
+Current max: 1
+Stones left: 18
 ---------------------------------------
 Player Sephiroth took 1 stones and used reset.
 Current max: 2
-Stones left: 10
+Stones left: 17
 ---------------------------------------
-Player aaa took 1 stones.
-Current max: 8
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 15
+---------------------------------------
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 14
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 12
+---------------------------------------
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 11
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
 Stones left: 9
 ---------------------------------------
 Player Sephiroth took 1 stones.
-Current max: 8
+Current max: 2
 Stones left: 8
 ---------------------------------------
-Player aaa took 9 stones.
-Current max: 9
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 6
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 5
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 3
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 2
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
 Stones left: 0
 ---------------------------------------
 Game over
-Player aaa won the game! Congrats!
+Player Mr. Second won the game! Congrats!
